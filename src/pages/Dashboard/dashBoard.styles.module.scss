@@ -1,0 +1,13 @@
+.mainDiv{
+    // height: 2471px;
+    background-color: #232323;
+    width: auto;
+    // padding-left: 109px;
+    position: absolute;  
+    height: auto;
+    overflow: auto;
+}
+
+div::-webkit-scrollbar {
+    display: none; 
+  }

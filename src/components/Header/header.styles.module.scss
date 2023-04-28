@@ -1,0 +1,20 @@
+.navBarDiv{
+    position: fixed;
+    // display: block;
+    // height: 2492px;
+    width: 109px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: #131313;
+}
+
+.navBarItem{
+    display: grid !important;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.navBarItem a {
+    padding-bottom: 15px;
+}
